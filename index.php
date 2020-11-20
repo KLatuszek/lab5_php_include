@@ -105,11 +105,7 @@
 
 
 <!-- Footer -->
-<footer class="text-center">
- 
-  <p>Stopka Laboratorium 3 <a href="https://www.w3schools.com" data-toggle="tooltip" title="Visit w3schools">AIRISS</a></p> 
-</footer>
-
+<?php include "./footer.html" ?>
 <script>
 $(document).ready(function(){
   // Initialize Tooltip
